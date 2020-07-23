@@ -12,7 +12,7 @@ console.log(parrafo)
 
  let agregargastos = function(){
 
- 	const sueldo = 100;
+ 	let sueldo = 9999;
  	let gasto = gastosInput.value;
  	let resta = sueldo - gasto;
  	
