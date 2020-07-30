@@ -4,47 +4,19 @@
 	background: #D59728;
 }
 
-#agregar-capital{
-
-	width: 50%;
-	color:#000;
-	margin-top: 20px;
-	padding: 10px;
-	border-radius: 10px;
-	height: auto;
-}
-
-#agregar-capital input[type=text] .error{
-	color: red;
-	border-top: 1px solid red;
-	
-}
-
-#agregar-gasto{
-	width: 50%;
-	margin-top: 20px;
-	padding: 10px;
-	border-radius: 10px;
-	height: auto;
-}
-
-#agregar{
-	padding: 10px;
-	margin-top: 50px;
-	margin-left: 100px;
-	width: 150px;
-	background: #865B41;
-	text-decoration: none;
-
-
-	border: 1px solid #fff;
-	border-radius: 25px;
-}
 
 #agregar:hover{
 	background: #D56528;
 	color: #fff;
+	
 }
+
+#agregar{
+	background: #D56528;
+	color: #fff;
+	margin-left: 30%;
+}
+
 
 #resultadoDelAgregos li a{
 	position: relative;
@@ -57,4 +29,13 @@
 	margin: 20px;
 	color: #fff;
 	margin-bottom:20px;
+}
+#inputCapital, #inputDescuento{
+	position: relative;
+	width: 90%;
+	height: 50px;
+	border-bottom: 1px 2px solid #ffff;
+	display: block;
+	margin: 10px;
+	
 }
