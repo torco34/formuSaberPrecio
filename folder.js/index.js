@@ -18,7 +18,7 @@
 
 
 
-// -----------ESTE ES NUEVO---------
+// -----------ESTE ES EL NUEVO ---------
 
 
 let cuerpoDelFormulario = document.getElementById('cuerpoForm')
