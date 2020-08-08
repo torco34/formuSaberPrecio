@@ -34,8 +34,13 @@
 	position: relative;
 	width: 90%;
 	height: 50px;
+	color:red;
 	border-bottom: 1px 2px solid #ffff;
 	display: block;
 	margin: 10px;
 	
+}
+
+input.error{
+	color:#fff;
 }
